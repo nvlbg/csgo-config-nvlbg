@@ -1,1 +1,1 @@
--tickrate 128 -console -high
+-novid -tickrate 128 -console -high -threads 2 -freq 75 -language bananagaming
